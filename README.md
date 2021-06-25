@@ -27,19 +27,13 @@ I have a strong solid background of 10+ years in Web Development. I have develop
    end
 
    def previous_locations
-     [ 
-     'Ho Chi Minh City of Vietnam'
-     ]
+     ['Ho Chi Minh City of Vietnam']
    end
 
    def currently
      {
-       skills: [
-          'Ruby on Rails', 'Nodejs' , 'PHP', 'ReactJS', 'Vuejs', 'jQuery', 'SCSS', 'Webpack', 'AWS', 'Linux'
-       ],
-       reading: [
-          'Search Inside Yourself'
-       ],
+       skills: ['Ruby on Rails', 'Nodejs' , 'PHP', 'ReactJS', 'Vuejs', 'jQuery', 'SCSS', 'Webpack', 'AWS', 'Linux'],
+       reading: ['Search Inside Yourself'],
        tinkering: ['ReactJS', 'Vuejs', 'Tailwind']
       }
    end
