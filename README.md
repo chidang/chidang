@@ -27,7 +27,8 @@ I have a strong solid background of 10+ years in Web Development. I have develop
    end
 
    def previous_locations
-     [ 'Ho Chi Minh City of Vietnam'
+     [ 
+     'Ho Chi Minh City of Vietnam'
      ]
    end
 
@@ -65,3 +66,8 @@ I have a strong solid background of 10+ years in Web Development. I have develop
   <img src="images/github.png" height="48px">
   <img src="images/jira.png" height="48px">
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chidang&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chidang&layout=compact)
